@@ -1,3 +1,4 @@
+import IMask from "imask";
 import "./css/index.css";
 
 const ccBgColor01 = document.querySelector(
@@ -7,6 +8,7 @@ const ccBgColor02 = document.querySelector(
   ".cc-bg svg > g g:nth-child(2) path"
 );
 const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img");
+const securityCode = document.querySelector('#security-code')
 
 function setCardType(type) {
   const colors = {
