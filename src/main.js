@@ -8,7 +8,6 @@ const ccBgColor02 = document.querySelector(
   ".cc-bg svg > g g:nth-child(2) path"
 );
 const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img");
-const securityCode = document.querySelector('#security-code')
 
 function setCardType(type) {
   const colors = {
@@ -27,3 +26,27 @@ function setCardType(type) {
 setCardType("nubank");
 
 globalThis.setCardType = setCardType;
+
+const securityCode = document.querySelector("#security-code");
+const securityCodePattern = {
+  mask: "0000",
+};
+const securityCodeMasked = IMask(securityCode, securityCodePattern);
+
+const expirationDate = document.querySelector("#expiration-date");
+const expirationDatePattern = {
+  mask: "MM{/}YY",
+  blocks: {
+    MM: {
+      mask: IMask.MaskedRange,
+      from: 1,
+      to: 12,
+    },
+    YY: {
+      mask: IMask.MaskedRange,
+      from: 22,
+      to: 32,
+    },
+  },
+};
+const expirationDateMasked = IMask(expirationDate, expirationDatePattern);
