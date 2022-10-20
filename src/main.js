@@ -111,3 +111,23 @@ cardHolder.addEventListener("input", () => {
     ccHolder.innerText = "Fulano da Silva";
   }
 });
+
+securityCodeMasked.on("accept", () => {
+  updateSecurityCode(securityCodeMasked.value);
+});
+
+function updateSecurityCode(code) {
+  const ccSecurity = document.querySelector(".cc-security .value");
+
+  ccSecurity.innerText = code.length === 0 ? "123" : code;
+}
+
+cardNumberMasked.on("accept", () => {
+  updateCardNumber(cardNumberMasked.value);
+});
+
+function updateCardNumber(number) {
+  const ccCardNumber = document.querySelector(".cc-number");
+
+  ccCardNumber.innerText = number.length === 0 ? "1234 5678 9012 3456" : number;
+}
