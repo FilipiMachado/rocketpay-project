@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://imgur.com/fLfaBK4"><img src="https://imgur.com/fLfaBK4.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/XXdjNcC"><img src="https://imgur.com/XXdjNcC.png" title="source: imgur.com" /></a>
 </p>
 
 ## 💻 Project
