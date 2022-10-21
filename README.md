@@ -2,10 +2,6 @@
   If you wanna test: https://credit-card-project.netlify.app/
 </h1>
 
-<p align="center">
-  <a href="https://imgur.com/XXdjNcC"><img src="https://imgur.com/XXdjNcC.png" title="source: imgur.com" /></a>
-</p>
-
 ## 💻 Project
 
 The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
