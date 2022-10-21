@@ -1,5 +1,5 @@
 <h1>
-  If you wanna test: https://musiq-streaming.netlify.app/
+  If you wanna test: https://credit-card-project.netlify.app/
 </h1>
 
 <p align="center">
