@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
+The project is a credit card payment method page. The info, logo and colors of the credit card changes dinamically based in what you type.
 
 <p align="center">
   <a href="https://imgur.com/Kz6aBCN"><img src="https://imgur.com/Kz6aBCN.png" title="source: imgur.com" /></a>
@@ -17,7 +17,7 @@ The project is a music streaming platform. There is a music player included and 
 
 This project was developed using this technologies:
 
-- [Vanilla JS] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Vanilla JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org/)
 - [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
@@ -28,8 +28,8 @@ This project was developed using this technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/FilipiMachado/react-music-streaming
-$ cd react-music-streaming
+$ git clone https://github.com/FilipiMachado/rocketpay-project
+$ cd rocketpay-project
 ```
 
 To start the WEB project, follow this steps:
@@ -40,7 +40,7 @@ $ npm install
 # Start the project
 $ npm run dev
 ```
-The app will be available in this address http://localhost:3000/
+The app will be available in this address http://127.0.0.1:5173/
 
 ## <br>
 
