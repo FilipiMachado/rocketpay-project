@@ -11,10 +11,9 @@
 The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
 
 <p align="center">
-  <a href="https://imgur.com/czAhpVT"><img src="https://imgur.com/czAhpVT.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/p2wIuYG"><img src="https://imgur.com/p2wIuYG.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/FSpWjD5"><img src="https://imgur.com/FSpWjD5.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/gWyPekI"><img src="https://imgur.com/gWyPekI.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/Kz6aBCN"><img src="https://imgur.com/Kz6aBCN.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/bbthLbv"><img src="https://imgur.com/bbthLbv.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/hQQDkV6"><img src="https://imgur.com/hQQDkV6.png" title="source: imgur.com" /></a>
 
 <br>
 
@@ -22,12 +21,11 @@ The project is a music streaming platform. There is a music player included and 
 
 This project was developed using this technologies:
 
-- [React.JS](https://reactjs.org/)
-- [React Router DOM](https://reactrouter.com/en/main)
+- [Vanilla JS] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vite](https://vitejs.dev/)
-- [Tailwind](https://tailwindcss.com/)
-- [RapidAPI](https://rapidapi.com/)
-- [GeoIpfy](https://geo.ipify.org/)
+- [iMask](https://imask.js.org/)
+- [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Netlify](https://www.netlify.com/)
 
 ## 🚀 How to Execute
 
